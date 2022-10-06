@@ -1,0 +1,12 @@
+def comb(c):
+    for i in range(3):
+        for j in range(3):
+            for j in range(3):
+                for k in range(3):
+                    if(l[i]!=l[j] and l[j]!=l[k] and l[i]!=l[k]):
+                        print(l[i],l[j],l[k])
+l=input("enter the number")
+if(len(l)!=3 or l[0]=='-'):
+    print("false")
+else:
+    comb(1)
