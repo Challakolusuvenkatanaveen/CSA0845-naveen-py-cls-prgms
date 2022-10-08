@@ -46,3 +46,16 @@ Day 4 Programs
 8 - Roman to Integer
 9 - Year Divided Into Four Seasons
 10 - Scramble String
+
+Day 5 Programs
+1 - Word and Spaces
+2 - Organization
+3 - Perfect Square Numbers
+4 - Little Robert
+5 - Peak Element
+6 - Triangular Array
+7 - Longest Substring
+8 - Matrix of Size 
+9 - Function Shuffle
+10 - Reverse Words in a String
+
